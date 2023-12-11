@@ -7,6 +7,8 @@ Resume/LinkedIn: My Resume and LinkedIn profile can be found here.
 
 Data Ethics Issues and Solutions: Lists out possible issues of ethics behind the use of data analytics & AI solutions outlined for each listed issue. 
 
+Tableau Certification: Tableau certification, underlines my commitment to mastering the tool and delivering impactful visualizations.
+
 Tableau Visualizations: Explore a collection of insightful Tableau visualizations, demonstrating my ability to create compelling and informative data representations. Looking at automobile and motorcycle crashes obtained from the PennDOT website. Used Tableau Prep Builder to join and clean my dataset for Tableau Desktop where I created a dashboard and answered my questions.
 
 SAS Analyses: Read my paper and look at my PowerPoint that showcases my expertise in statistical analysis and data manipulation using SAS looking at NBA stats. 
@@ -21,5 +23,4 @@ Cloud Certifications: My certifications and training in cloud platforms, includi
 
 Excel Expertise: Showcases mastery of Excel, an essential tool in data analysis, through examples of data manipulation, visualization, and advanced formula usage.
 
-Tableau Certification: Tableau certification, underlines my commitment to mastering the tool and delivering impactful visualizations.
 
