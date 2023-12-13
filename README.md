@@ -15,7 +15,7 @@ SAS Analyses: Read my paper and look at my PowerPoint that showcases my expertis
 
 Robotic Process Automation (RPA) Workflows: Discover Ui Path automation workflows, illustrating my proficiency in streamlining repetitive tasks through automation. This can be seen in my PowerPoint which demonstrates my process where I automated extracting invoice details from a website and inputting the data back into my Excel file.  
 
-SQL Database Queries: Review SQL queries and database interactions, showcasing my ability to extract valuable insights from relational databases. Using Python to also create visuals. This can be seen in my iympb file which contains data about different makes and models of cars and trucks. Using SQL and Python code I was able to create valuable visualizations that can be used in the decision process when buying my next car.
+SQL Database Queries: Review SQL queries and database interactions, showcasing my ability to extract valuable insights from relational databases. Using Python to also create visuals. This can be seen in my ipynb file which contains data about different makes and models of cars and trucks. Using SQL and Python code I was able to create valuable visualizations that can be used in the decision process when buying my next car.
 
 Exploring Microsoft Azure: Look at my project where we analyzed HIV/AIds data obtained from the US Agency for International Development. Here we worked on creating visualizations using KQL also known as Kusto Querry Language similar to SQL. Using KQL we were able to better understand the trends in pricing, spending, and volumes of health commodities by country.  
 
